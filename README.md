@@ -10,6 +10,7 @@ A Flask-based web application that uses ScrapingBee API to scrape product inform
 - ⚡ Real-time loading states and error handling
 - 💾 Download results as XML file
 - 📝 Detailed logging for debugging
+- 🚀 Deployment-ready for render.com
 
 ## 🛠️ Technologies Used
 
@@ -29,8 +30,8 @@ A Flask-based web application that uses ScrapingBee API to scrape product inform
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/product-scraper-api.git
-cd product-scraper-api
+git clone https://github.com/Innkaufhaus/scraping_bee_product-scraper-api.git
+cd scraping_bee_product-scraper-api
 ```
 
 2. Install dependencies:
@@ -139,4 +140,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue in the GitHub repository.
+For support, please open an issue in the GitHub repository.
